@@ -15,4 +15,4 @@
 13. Deploy the project system into a computer or an edge device.
 14. Document a user's manual of the project.
 
-Since it's a single person project, all the task will be assigned to Yuan Cheng
+Since it's a single person project, all tasks will be assigned to Yuan Cheng.
