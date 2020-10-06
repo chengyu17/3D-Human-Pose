@@ -1,6 +1,9 @@
 # 3D-Human-Pose
 ## Professional Biography
 [Professional Biography](Professional_Biography.md)
+
+## Project
+
 ## User Stories and Design Diagrams
 * [User Stories](User_Stories.md)
 * Design Diagrams
