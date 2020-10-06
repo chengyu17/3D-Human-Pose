@@ -6,7 +6,7 @@
 
 ### Contact Information
 * Yuan Cheng: chengyu@mail.uc.edu
-* Advised by Chia Yung Han: han@ucmail.uc.edu
+* Advised by Dr.Chia Yung Han: han@ucmail.uc.edu
 
 ## User Stories and Design Diagrams
 * [User Stories](User_Stories.md)
