@@ -5,12 +5,12 @@
 
 ## Project Abstract
 ### Goal:
-	Implementing a deep learning based human pose estimation application that predicts human pose from videos or camera stream in real-time.
+Implementing a deep learning based human pose estimation application that predicts human pose from videos or camera stream in real-time.
 ### Project Components:
-	* Deep learning model training; 
-	* Video processing application framework design. 
+* Deep learning model training; 
+* Video processing application framework design. 
 ### Keywords:
-	Python, Deep learning, CNN, Pose estimation, Image processing, GUI.
+Python, Deep learning, CNN, Pose estimation, Image processing, GUI.
 
 ## User Stories and Design Diagrams
 * [User Stories](User_Stories.md)
@@ -18,6 +18,7 @@
     * Diagram1![Diagram 1](design/diagram1.png)High-Level Design of the Input, Model, Output Layer.
     * Diagram2![Diagram 2](design/diagram2.png)More details diagram illustration including preprocessing and training dataset.
     * Diagram3![Diagram 3](design/diagram3.png)Further more detailed diagram including details about each parts
+
 ## Tasks, Milestone, Timeline, and Effort Matrix
 * [Task List](Tasklist.md)
 * [MilestoneTimelineAndEffort](MilestoneTimelineAndEffort.md)
