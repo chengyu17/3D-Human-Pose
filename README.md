@@ -23,10 +23,10 @@
 * [MilestoneTimelineAndEffort](MilestoneTimelineAndEffort.md)
 
 ## PPT Slideshow (includes ABET Concerns)
-[3D Human Pose Application Slides]()
+[3D Human Pose Application Slides](https://github.com/chengyu17/3D-Human-Pose/blob/master/3D%20Human%20Pose%20Application.pptx.pdf)
 
 ## Self-Assessment Essay
-[Self-Assessment Essay](Self-Assessment Essay.md)
+[Self-Assessment Essay](Self_Assessment_Essay.md)
 
 ## Professional Biography
 [Professional Biography](Professional_Biography.md)
