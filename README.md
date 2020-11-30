@@ -37,4 +37,8 @@ Python, Deep learning, CNN, Pose estimation, Image processing, GUI.
 
 ## Appendix
 * This is an individual project such that all the works have done by Yuan Cheng.
-* Reference
+### Reference
+* [Deep High-Resolution Representation Learning for Human Pose Estimation](https://nsarafianos.github.io/assets/3DHumanPose.pdf)
+* [2D Human Pose Estimation: New Benchmark and State of the Art Analysis ](http://human-pose.mpi-inf.mpg.de/contents/andriluka14cvpr.pdf)
+* [Deep High-Resolution Representation Learning for Human Pose Estimation](https://arxiv.org/pdf/1902.09212v1.pdf)
+* [https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_video_display/py_video_display.html](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_video_display/py_video_display.html)
