@@ -35,6 +35,9 @@ Python, Deep learning, CNN, Pose estimation, Image processing, GUI.
 ## Budge
 * Requiring Video Recording equipment i.e. Camera.
 
+## Test Plan
+* [Test Plan](TestPlan.md)
+
 ## Appendix
 * This is an individual project such that all the works have done by Yuan Cheng.
 ### Reference
