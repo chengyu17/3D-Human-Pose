@@ -31,3 +31,13 @@ Test 2
 | Test Case ID  | Normal / Abnormal | Blackbox / Whitebox   | Functional / Performance  |
 |:-------------:|:-----------------:|:---------------------:|:-------------------------:|
 | 1             | Normal            | Blackbox              | Functional                |
+| 2             | Normal            | Blackbox              | Functional                |
+| 3             | Normal            | Blackbox              | Functional                |
+| 4             | Normal            | Blackbox              | Functional                |
+| 5             | Normal            | Blackbox              | Functional                |
+| 6             | Normal            | Blackbox              | Functional                |
+| 7             | Normal            | Blackbox              | Functional                |
+| 8             | Normal            | Blackbox              | Functional                |
+| 9             | Normal            | Blackbox              | Functional                |
+| 10            | Normal            | Blackbox              | Functional                |
+| 11            | Normal            | Blackbox              | Functional                |
